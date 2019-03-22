@@ -11,7 +11,7 @@ namespace pis_vj1
     class NewClass
     {
         public void bok()
-        { }
+        {}
 
     }
 }
