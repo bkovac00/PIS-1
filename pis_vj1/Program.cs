@@ -11,7 +11,7 @@ namespace pis_vj1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Bozo");
             Console.ReadKey();
 
            
