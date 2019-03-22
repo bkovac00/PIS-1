@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 namespace pis_vj1
 {
     class NewClass
@@ -16,6 +17,9 @@ namespace pis_vj1
 
 =======
 namespace pis_v1
+=======
+namespace pis_vj1
+>>>>>>> 717eb41a494d5de50473574790908b46054083e8
 {
     class NewClass
     {
